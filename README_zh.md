@@ -1,6 +1,9 @@
 ## JSON-data-serve
-[English explanation](./README.md)
+[English explanation](./README.md) 
 
+[GitHub](https://github.com/lidppp/json-data-serve) 
+
+如果您喜欢这个插件请给我一个star,万分感谢
 ### 安装
 ```powershell
 npm install json-data-serve -g
