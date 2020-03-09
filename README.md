@@ -1,5 +1,5 @@
 ## JSON-data-serve
-[中文说明](./README_zh.md) 
+[中文说明](https://github.com/lidppp/json-data-serve/blob/master/README_zh.md) 
 
 [GitHub](https://github.com/lidppp/json-data-serve) 
 
